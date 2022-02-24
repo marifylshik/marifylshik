@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Привет!Меня зовут Марина!Изучаю Git (пытаюсь!)! Изучаю основы программированияна языке Pythone!
+<a href="https://vk.com/bmw_1">
+<a href="https://twitter.com/marifylshik">
